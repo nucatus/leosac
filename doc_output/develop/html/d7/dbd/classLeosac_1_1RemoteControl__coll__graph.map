@@ -1,0 +1,7 @@
+<map id="Leosac::RemoteControl" name="Leosac::RemoteControl">
+<area shape="rect" id="node2" href="$d1/d50/classLeosac_1_1Kernel.html" title="Core of Leosac. " alt="" coords="170,285,279,312"/>
+<area shape="rect" id="node3" href="$d4/d7a/classLeosac_1_1ConfigManager.html" title="That class helps manage the configuration for the application and its module. " alt="" coords="111,95,271,121"/>
+<area shape="rect" id="node6" href="$d0/d08/classzModuleManager.html" title="A second module manager that loads &quot;ZMQ aware&quot; module – modules that talks to the application throug..." alt="" coords="131,196,252,223"/>
+<area shape="rect" id="node7" href="$d5/df3/classLeosac_1_1RemoteControlSecurity.html" title="Provide some kind of security framework to the Remote Control service. " alt="" coords="305,145,513,172"/>
+<area shape="rect" id="node5" href="$dd/dc8/classMessageBus.html" title="Implements a message bus (running in its own thread) that use 2 sockets. " alt="" coords="277,196,375,223"/>
+</map>

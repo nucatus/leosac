@@ -1,0 +1,19 @@
+<map id="src/tools/runtimeoptions.hpp" name="src/tools/runtimeoptions.hpp">
+<area shape="rect" id="node2" href="$df/db8/kernel_8hpp.html" title="src/core/kernel.hpp" alt="" coords="1239,80,1373,107"/>
+<area shape="rect" id="node16" href="$d7/de6/runtimeoptions_8cpp.html" title="RuntimeOptions class implementation. " alt="" coords="1397,80,1583,107"/>
+<area shape="rect" id="node17" href="$d9/d21/Led_8cpp.html" title="test/Led.cpp" alt="" coords="1608,80,1703,107"/>
+<area shape="rect" id="node18" href="$d4/d9b/WiegandReader_8cpp.html" title="test/WiegandReader.cpp" alt="" coords="1727,80,1893,107"/>
+<area shape="rect" id="node3" href="$d6/dff/src_2core_2config_2ConfigManager_8cpp.html" title="src/core/config/ConfigManager.cpp" alt="" coords="5,162,231,189"/>
+<area shape="rect" id="node4" href="$dd/d24/kernel_8cpp.html" title="src/core/kernel.cpp" alt="" coords="255,162,389,189"/>
+<area shape="rect" id="node5" href="$d2/d2a/networkconfig_8cpp.html" title="NetworkConfig class implementation. " alt="" coords="413,155,545,196"/>
+<area shape="rect" id="node6" href="$d4/d28/RemoteControl_8cpp.html" title="src/core/RemoteControl.cpp" alt="" coords="570,162,757,189"/>
+<area shape="rect" id="node7" href="$df/dca/GetLocalConfigVersion_8cpp.html" title="src/core/tasks/GetLocalConfig\lVersion.cpp" alt="" coords="781,155,980,196"/>
+<area shape="rect" id="node8" href="$d7/d6f/GetRemoteConfigVersion_8cpp.html" title="src/core/tasks/GetRemote\lConfigVersion.cpp" alt="" coords="1005,155,1181,196"/>
+<area shape="rect" id="node9" href="$d5/d8e/SyncConfig_8cpp.html" title="src/core/tasks/SyncConfig.cpp" alt="" coords="1205,162,1407,189"/>
+<area shape="rect" id="node10" href="$de/d23/zmodule__manager_8cpp.html" title="src/core/zmodule_manager.cpp" alt="" coords="1432,162,1636,189"/>
+<area shape="rect" id="node11" href="$df/d0a/main_8cpp.html" title="standard main " alt="" coords="1660,162,1757,189"/>
+<area shape="rect" id="node12" href="$d8/d37/AuthFileModule_8cpp.html" title="src/modules/auth/auth\l&#45;file/AuthFileModule.cpp" alt="" coords="1782,155,1945,196"/>
+<area shape="rect" id="node13" href="$d0/d58/DoormanModule_8cpp.html" title="src/modules/doorman\l/DoormanModule.cpp" alt="" coords="1969,155,2115,196"/>
+<area shape="rect" id="node14" href="$d7/d36/LEDBuzzerModule_8cpp.html" title="src/modules/led&#45;buzzer\l/LEDBuzzerModule.cpp" alt="" coords="2139,155,2299,196"/>
+<area shape="rect" id="node15" href="$d3/de8/wiegand_8cpp.html" title="src/modules/wiegand\l/wiegand.cpp" alt="" coords="2324,155,2469,196"/>
+</map>

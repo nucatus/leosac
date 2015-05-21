@@ -1,0 +1,6 @@
+<map id="Leosac::Scheduler" name="Leosac::Scheduler">
+<area shape="rect" id="node2" href="$d1/d50/classLeosac_1_1Kernel.html" title="Core of Leosac. " alt="" coords="159,273,268,300"/>
+<area shape="rect" id="node3" href="$d4/d7a/classLeosac_1_1ConfigManager.html" title="That class helps manage the configuration for the application and its module. " alt="" coords="5,95,165,121"/>
+<area shape="rect" id="node6" href="$d0/d08/classzModuleManager.html" title="A second module manager that loads &quot;ZMQ aware&quot; module – modules that talks to the application throug..." alt="" coords="157,184,278,211"/>
+<area shape="rect" id="node5" href="$dd/dc8/classMessageBus.html" title="Implements a message bus (running in its own thread) that use 2 sockets. " alt="" coords="305,184,404,211"/>
+</map>

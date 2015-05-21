@@ -1,0 +1,6 @@
+<map id="src/core/auth/BaseAuthSource.hpp" name="src/core/auth/BaseAuthSource.hpp">
+<area shape="rect" id="node4" href="$db/d47/IAuthenticationSource_8hpp.html" title="core/auth/Interfaces\l/IAuthenticationSource.hpp" alt="" coords="114,80,293,121"/>
+<area shape="rect" id="node7" href="$dd/de8/CredentialValidity_8hpp.html" title="core/auth/CredentialValidity.hpp" alt="" coords="348,87,555,114"/>
+<area shape="rect" id="node5" href="$d3/d6f/AuthFwd_8hpp.html" title="core/auth/AuthFwd.hpp" alt="" coords="82,169,239,196"/>
+<area shape="rect" id="node6" href="$dd/d9d/IVisitable_8hpp.html" title="tools/IVisitable.hpp" alt="" coords="263,169,397,196"/>
+</map>

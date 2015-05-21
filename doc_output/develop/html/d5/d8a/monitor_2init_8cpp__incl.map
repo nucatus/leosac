@@ -1,0 +1,21 @@
+<map id="src/modules/monitor/init.cpp" name="src/modules/monitor/init.cpp">
+<area shape="rect" id="node5" href="$d4/d3d/log_8hpp.html" title="Log class declaration. " alt="" coords="1478,244,1574,271"/>
+<area shape="rect" id="node29" href="$d2/dc2/MonitorModule_8hpp.html" title="MonitorModule.hpp" alt="" coords="2579,95,2711,121"/>
+<area shape="rect" id="node11" href="$df/de4/unixfs_8hpp.html" title="unix filesystem helper functions " alt="" coords="1315,326,1398,353"/>
+<area shape="rect" id="node14" href="$d0/d4e/fsexception_8hpp.html" title="Exception class for filesystem related errors. " alt="" coords="697,408,872,435"/>
+<area shape="rect" id="node15" href="$d1/ddd/leosacexception_8hpp.html" title="Exception class for LEOSAC Project related errors. " alt="" coords="714,483,855,509"/>
+<area shape="rect" id="node17" href="$d7/d7a/configexception_8hpp.html" title="Exception class for Config related errors. " alt="" coords="715,557,854,584"/>
+<area shape="rect" id="node18" href="$d8/db0/coreexception_8hpp.html" title="Exception class for Core related errors. " alt="" coords="878,557,1006,584"/>
+<area shape="rect" id="node19" href="$d8/d77/deviceexception_8hpp.html" title="Exception class for Device related errors. " alt="" coords="1134,557,1275,584"/>
+<area shape="rect" id="node20" href="$db/d35/dynlibexception_8hpp.html" title="Exception class for DynLib related errors. " alt="" coords="1300,557,1437,584"/>
+<area shape="rect" id="node21" href="$d1/d8e/gpioexception_8hpp.html" title="Exception class for Gpio related errors. " alt="" coords="24,557,151,584"/>
+<area shape="rect" id="node22" href="$d7/d8c/moduleexception_8hpp.html" title="Exception class for modules. " alt="" coords="175,557,320,584"/>
+<area shape="rect" id="node23" href="$df/d8d/scriptexception_8hpp.html" title="Exception class for Script related errors. " alt="" coords="344,557,479,584"/>
+<area shape="rect" id="node24" href="$dc/dce/signalexception_8hpp.html" title="Exception class for Signal related errors. " alt="" coords="503,557,640,584"/>
+<area shape="rect" id="node30" href="$d0/dc7/BaseModule_8hpp.html" title="modules/BaseModule.hpp" alt="" coords="2059,169,2231,196"/>
+<area shape="rect" id="node40" href="$d3/dbd/FLED_8hpp.html" title="hardware/FLED.hpp" alt="" coords="2575,169,2714,196"/>
+<area shape="rect" id="node32" href="$dd/dec/gettid_8hpp.html" title="tools/gettid.hpp" alt="" coords="2479,244,2589,271"/>
+<area shape="rect" id="node34" href="$db/d33/ConfigChecker_8hpp.html" title="core/config/ConfigChecker.hpp" alt="" coords="2251,244,2454,271"/>
+<area shape="rect" id="node37" href="$db/d79/ConfigManager_8hpp.html" title="core/config/ConfigManager.hpp" alt="" coords="1974,244,2177,271"/>
+<area shape="rect" id="node39" href="$dc/d49/LeosacFwd_8hpp.html" title="LeosacFwd.hpp" alt="" coords="1835,244,1950,271"/>
+</map>

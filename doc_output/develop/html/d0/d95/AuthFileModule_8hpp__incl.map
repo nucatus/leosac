@@ -1,0 +1,32 @@
+<map id="src/modules/auth/auth&#45;file/AuthFileModule.hpp" name="src/modules/auth/auth&#45;file/AuthFileModule.hpp">
+<area shape="rect" id="node5" href="$d0/dc7/BaseModule_8hpp.html" title="modules/BaseModule.hpp" alt="" coords="713,333,885,360"/>
+<area shape="rect" id="node26" href="$de/df9/AuthFileInstance_8hpp.html" title="AuthFileInstance.hpp" alt="" coords="957,95,1103,121"/>
+<area shape="rect" id="node6" href="$dd/dec/gettid_8hpp.html" title="tools/gettid.hpp" alt="" coords="959,415,1069,442"/>
+<area shape="rect" id="node8" href="$db/d33/ConfigChecker_8hpp.html" title="core/config/ConfigChecker.hpp" alt="" coords="1094,415,1297,442"/>
+<area shape="rect" id="node11" href="$d4/d3d/log_8hpp.html" title="Log class declaration. " alt="" coords="257,415,353,442"/>
+<area shape="rect" id="node23" href="$db/d79/ConfigManager_8hpp.html" title="core/config/ConfigManager.hpp" alt="" coords="731,415,934,442"/>
+<area shape="rect" id="node25" href="$dc/d49/LeosacFwd_8hpp.html" title="LeosacFwd.hpp" alt="" coords="1726,587,1841,613"/>
+<area shape="rect" id="node17" href="$df/de4/unixfs_8hpp.html" title="unix filesystem helper functions " alt="" coords="165,505,247,531"/>
+<area shape="rect" id="node20" href="$d0/d4e/fsexception_8hpp.html" title="Exception class for filesystem related errors. " alt="" coords="249,587,424,613"/>
+<area shape="rect" id="node21" href="$d1/ddd/leosacexception_8hpp.html" title="Exception class for LEOSAC Project related errors. " alt="" coords="266,661,407,688"/>
+<area shape="rect" id="node27" href="$df/d5d/FileAuthSourceMapper_8hpp.html" title="FileAuthSourceMapper.hpp" alt="" coords="2163,169,2342,196"/>
+<area shape="rect" id="node28" href="$df/d4f/WiegandCardPin_8hpp.html" title="core/auth/WiegandCardPin.hpp" alt="" coords="1642,251,1845,278"/>
+<area shape="rect" id="node30" href="$db/d47/IAuthenticationSource_8hpp.html" title="core/auth/Interfaces\l/IAuthenticationSource.hpp" alt="" coords="2102,497,2281,539"/>
+<area shape="rect" id="node36" href="$d2/d65/WiegandCard_8hpp.html" title="core/auth/WiegandCard.hpp" alt="" coords="1343,333,1527,360"/>
+<area shape="rect" id="node40" href="$d4/da0/XmlScheduleLoader_8hpp.html" title="tools/XmlScheduleLoader.hpp" alt="" coords="1995,415,2190,442"/>
+<area shape="rect" id="node43" href="$df/dfe/SingleTimeFrame_8hpp.html" title="SingleTimeFrame.hpp" alt="" coords="3057,736,3206,763"/>
+<area shape="rect" id="node44" href="$d9/dfe/SimpleAccessProfile_8hpp.html" title="core/auth/SimpleAccessProfile.hpp" alt="" coords="2670,415,2897,442"/>
+<area shape="rect" id="node48" href="$d1/d6f/Group_8hpp.html" title="core/auth/Group.hpp" alt="" coords="2472,333,2612,360"/>
+<area shape="rect" id="node50" href="$de/d13/IAuthSourceMapper_8hpp.html" title="core/auth/Interfaces\l/IAuthSourceMapper.hpp" alt="" coords="2316,244,2483,285"/>
+<area shape="rect" id="node29" href="$dc/d87/BaseAuthSource_8hpp.html" title="core/auth/BaseAuthSource.hpp" alt="" coords="1574,415,1777,442"/>
+<area shape="rect" id="node35" href="$d1/d82/IVisitor_8hpp.html" title="tools/IVisitor.hpp" alt="" coords="1801,415,1921,442"/>
+<area shape="rect" id="node37" href="$d2/dac/PINCode_8hpp.html" title="core/auth/PINCode.hpp" alt="" coords="1603,333,1761,360"/>
+<area shape="rect" id="node33" href="$dd/de8/CredentialValidity_8hpp.html" title="core/auth/CredentialValidity.hpp" alt="" coords="1651,661,1857,688"/>
+<area shape="rect" id="node31" href="$d3/d6f/AuthFwd_8hpp.html" title="core/auth/AuthFwd.hpp" alt="" coords="1915,587,2073,613"/>
+<area shape="rect" id="node32" href="$dd/d9d/IVisitable_8hpp.html" title="tools/IVisitable.hpp" alt="" coords="2147,587,2281,613"/>
+<area shape="rect" id="node42" href="$d9/d58/Schedule_8hpp.html" title="Schedule.hpp" alt="" coords="2779,661,2881,688"/>
+<area shape="rect" id="node45" href="$d4/d86/IAccessProfile_8hpp.html" title="core/auth/Interfaces\l/IAccessProfile.hpp" alt="" coords="2590,497,2729,539"/>
+<area shape="rect" id="node46" href="$d1/d04/AuthTarget_8hpp.html" title="core/auth/AuthTarget.hpp" alt="" coords="2609,587,2779,613"/>
+<area shape="rect" id="node47" href="$de/df0/FGPIO_8hpp.html" title="hardware/FGPIO.hpp" alt="" coords="2609,661,2755,688"/>
+<area shape="rect" id="node49" href="$d1/dac/IUser_8hpp.html" title="core/auth/Interfaces\l/IUser.hpp" alt="" coords="2366,408,2505,449"/>
+</map>

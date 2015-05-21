@@ -1,0 +1,5 @@
+<map id="Leosac::Auth::BaseAuthSource" name="Leosac::Auth::BaseAuthSource">
+<area shape="rect" id="node2" href="$d6/d6c/classLeosac_1_1Auth_1_1IAuthenticationSource.html" title="An Auth source is a card id, a pin code, a fingerprint, etc... " alt="" coords="5,81,200,123"/>
+<area shape="rect" id="node3" href="$d0/d33/classLeosac_1_1Tools_1_1IVisitable.html" title="Provide an interface that visitable object must implement. " alt="" coords="19,5,186,32"/>
+<area shape="rect" id="node4" href="$d8/dc9/classLeosac_1_1Auth_1_1CredentialValidity.html" title="A simple class that stores (and can be queried for) the validity of some credentials. " alt="" coords="225,81,391,123"/>
+</map>

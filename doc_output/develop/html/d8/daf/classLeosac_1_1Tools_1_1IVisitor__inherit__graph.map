@@ -1,0 +1,4 @@
+<map id="Leosac::Tools::IVisitor" name="Leosac::Tools::IVisitor">
+<area shape="rect" id="node2" href="$d2/de1/classLeosac_1_1Auth_1_1IAuthSourceMapper.html" title="Base class to perform abstracted mapping operation over various AuthSource object. " alt="" coords="5,80,184,121"/>
+<area shape="rect" id="node3" href="$db/d85/classLeosac_1_1Module_1_1Auth_1_1FileAuthSourceMapper.html" title="Use a file to map auth source (card, PIN, etc) to user. " alt="" coords="13,169,176,211"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Leosac::Module::Wiegand::Strategy::WiegandPin4BitsOnly" name="Leosac::Module::Wiegand::Strategy::WiegandPin4BitsOnly">
+<area shape="rect" id="node2" href="$d1/db0/classLeosac_1_1Module_1_1Wiegand_1_1Strategy_1_1PinReading.html" title="Interface for a strategy that read a PIN code. " alt="" coords="26,95,199,136"/>
+<area shape="rect" id="node3" href="$d5/d39/classLeosac_1_1Module_1_1Wiegand_1_1Strategy_1_1WiegandStrategy.html" title="The multiple modes available to wiegand reader are implemented through the strategy pattern..." alt="" coords="19,5,206,47"/>
+</map>

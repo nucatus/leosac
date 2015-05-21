@@ -1,0 +1,7 @@
+<map id="Leosac::Tasks::GetLocalConfigVersion" name="Leosac::Tasks::GetLocalConfigVersion">
+<area shape="rect" id="node2" href="$d5/d9f/classLeosac_1_1Tasks_1_1Task.html" title="A base class for a tasks. " alt="" coords="5,273,151,300"/>
+<area shape="rect" id="node3" href="$d1/d50/classLeosac_1_1Kernel.html" title="Core of Leosac. " alt="" coords="175,273,285,300"/>
+<area shape="rect" id="node4" href="$d4/d7a/classLeosac_1_1ConfigManager.html" title="That class helps manage the configuration for the application and its module. " alt="" coords="22,95,182,121"/>
+<area shape="rect" id="node7" href="$d0/d08/classzModuleManager.html" title="A second module manager that loads &quot;ZMQ aware&quot; module – modules that talks to the application throug..." alt="" coords="173,184,295,211"/>
+<area shape="rect" id="node6" href="$dd/dc8/classMessageBus.html" title="Implements a message bus (running in its own thread) that use 2 sockets. " alt="" coords="322,184,421,211"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="src/core/auth/Interfaces/IAuthSourceMapper.hpp" name="src/core/auth/Interfaces/IAuthSourceMapper.hpp">
+<area shape="rect" id="node2" href="$d1/d82/IVisitor_8hpp.html" title="tools/IVisitor.hpp" alt="" coords="164,95,284,121"/>
+<area shape="rect" id="node3" href="$db/d47/IAuthenticationSource_8hpp.html" title="core/auth/Interfaces\l/IAuthenticationSource.hpp" alt="" coords="209,259,388,300"/>
+<area shape="rect" id="node7" href="$d1/d6f/Group_8hpp.html" title="core/auth/Group.hpp" alt="" coords="382,95,522,121"/>
+<area shape="rect" id="node5" href="$d3/d6f/AuthFwd_8hpp.html" title="core/auth/AuthFwd.hpp" alt="" coords="200,348,357,375"/>
+<area shape="rect" id="node6" href="$dd/d9d/IVisitable_8hpp.html" title="tools/IVisitable.hpp" alt="" coords="43,348,176,375"/>
+<area shape="rect" id="node10" href="$d1/dac/IUser_8hpp.html" title="core/auth/Interfaces\l/IUser.hpp" alt="" coords="428,169,567,211"/>
+<area shape="rect" id="node11" href="$dd/de8/CredentialValidity_8hpp.html" title="core/auth/CredentialValidity.hpp" alt="" coords="995,423,1202,449"/>
+<area shape="rect" id="node13" href="$d4/d86/IAccessProfile_8hpp.html" title="IAccessProfile.hpp" alt="" coords="483,266,615,293"/>
+<area shape="rect" id="node14" href="$d1/d04/AuthTarget_8hpp.html" title="core/auth/AuthTarget.hpp" alt="" coords="585,348,754,375"/>
+<area shape="rect" id="node15" href="$de/df0/FGPIO_8hpp.html" title="hardware/FGPIO.hpp" alt="" coords="774,423,919,449"/>
+<area shape="rect" id="node18" href="$d9/d58/Schedule_8hpp.html" title="tools/Schedule.hpp" alt="" coords="585,423,719,449"/>
+<area shape="rect" id="node19" href="$df/dfe/SingleTimeFrame_8hpp.html" title="SingleTimeFrame.hpp" alt="" coords="577,497,727,524"/>
+</map>

@@ -1,0 +1,30 @@
+<map id="src/core/auth/AuthTarget.hpp" name="src/core/auth/AuthTarget.hpp">
+<area shape="rect" id="node2" href="$dc/d6f/AuthTarget_8cpp.html" title="src/core/auth/AuthTarget.cpp" alt="" coords="286,87,477,114"/>
+<area shape="rect" id="node3" href="$d4/d86/IAccessProfile_8hpp.html" title="src/core/auth/Interfaces\l/IAccessProfile.hpp" alt="" coords="559,80,719,121"/>
+<area shape="rect" id="node18" href="$dd/df1/AccessControl_8cpp.html" title="test/AccessControl.cpp" alt="" coords="377,266,535,293"/>
+<area shape="rect" id="node21" href="$d9/dfe/SimpleAccessProfile_8hpp.html" title="src/core/auth/SimpleAccess\lProfile.hpp" alt="" coords="552,169,739,211"/>
+<area shape="rect" id="node23" href="$de/d46/DoormanModule_8hpp.html" title="src/modules/doorman\l/DoormanModule.hpp" alt="" coords="1084,80,1231,121"/>
+<area shape="rect" id="node27" href="$d3/d6c/EventPublish_8h.html" title="src/modules/event&#45;publish\l/EventPublish.h" alt="" coords="1513,80,1687,121"/>
+<area shape="rect" id="node4" href="$d1/dac/IUser_8hpp.html" title="src/core/auth/Interfaces\l/IUser.hpp" alt="" coords="225,169,385,211"/>
+<area shape="rect" id="node19" href="$de/da4/ProfileMerger_8hpp.html" title="src/core/auth/ProfileMerger.hpp" alt="" coords="763,177,967,203"/>
+<area shape="rect" id="node5" href="$d1/d6f/Group_8hpp.html" title="src/core/auth/Group.hpp" alt="" coords="5,266,168,293"/>
+<area shape="rect" id="node17" href="$d8/dbc/IUser_8cpp.html" title="src/core/auth/Interfaces\l/IUser.cpp" alt="" coords="192,259,352,300"/>
+<area shape="rect" id="node6" href="$de/d74/Group_8cpp.html" title="src/core/auth/Group.cpp" alt="" coords="5,355,168,382"/>
+<area shape="rect" id="node7" href="$de/d13/IAuthSourceMapper_8hpp.html" title="src/core/auth/Interfaces\l/IAuthSourceMapper.hpp" alt="" coords="235,348,402,389"/>
+<area shape="rect" id="node8" href="$df/d5d/FileAuthSourceMapper_8hpp.html" title="src/modules/auth/auth\l&#45;file/FileAuthSourceMapper.hpp" alt="" coords="397,437,601,479"/>
+<area shape="rect" id="node15" href="$d5/d58/AuthFile_8cpp.html" title="This file contains unit test suite related to the AuthFile module. " alt="" coords="127,534,249,561"/>
+<area shape="rect" id="node16" href="$d9/d75/test_2AuthSourceBuilder_8cpp.html" title="test/AuthSourceBuilder.cpp" alt="" coords="273,534,455,561"/>
+<area shape="rect" id="node9" href="$de/df9/AuthFileInstance_8hpp.html" title="src/modules/auth/auth\l&#45;file/AuthFileInstance.hpp" alt="" coords="479,527,649,568"/>
+<area shape="rect" id="node10" href="$da/d9b/AuthFileInstance_8cpp.html" title="src/modules/auth/auth\l&#45;file/AuthFileInstance.cpp" alt="" coords="601,616,772,657"/>
+<area shape="rect" id="node14" href="$d3/dc5/FileAuthSourceMapper_8cpp.html" title="src/modules/auth/auth\l&#45;file/FileAuthSourceMapper.cpp" alt="" coords="858,527,1062,568"/>
+<area shape="rect" id="node11" href="$df/d57/AuthFileModule_8hpp.html" title="src/modules/auth/auth\l&#45;file/AuthFileModule.hpp" alt="" coords="415,616,577,657"/>
+<area shape="rect" id="node12" href="$d8/d37/AuthFileModule_8cpp.html" title="src/modules/auth/auth\l&#45;file/AuthFileModule.cpp" alt="" coords="324,705,487,747"/>
+<area shape="rect" id="node13" href="$dc/d32/auth_2auth-file_2init_8cpp.html" title="src/modules/auth/auth\l&#45;file/init.cpp" alt="" coords="511,705,662,747"/>
+<area shape="rect" id="node20" href="$d9/d35/ProfileMerger_8cpp.html" title="src/core/auth/ProfileMerger.cpp" alt="" coords="822,266,1026,293"/>
+<area shape="rect" id="node22" href="$d8/dcf/SimpleAccessProfile_8cpp.html" title="src/core/auth/SimpleAccess\lProfile.cpp" alt="" coords="611,259,797,300"/>
+<area shape="rect" id="node24" href="$d2/d46/DoormanInstance_8cpp.html" title="src/modules/doorman\l/DoormanInstance.cpp" alt="" coords="992,169,1147,211"/>
+<area shape="rect" id="node25" href="$d0/d58/DoormanModule_8cpp.html" title="src/modules/doorman\l/DoormanModule.cpp" alt="" coords="1171,169,1317,211"/>
+<area shape="rect" id="node26" href="$d8/d54/doorman_2init_8cpp.html" title="src/modules/doorman\l/init.cpp" alt="" coords="1341,169,1488,211"/>
+<area shape="rect" id="node28" href="$d5/dca/EventPublish_8cpp.html" title="src/modules/event&#45;publish\l/EventPublish.cpp" alt="" coords="1711,169,1886,211"/>
+<area shape="rect" id="node29" href="$dd/dd8/event-publish_2init_8cpp.html" title="src/modules/event&#45;publish\l/init.cpp" alt="" coords="1513,169,1687,211"/>
+</map>
